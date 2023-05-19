@@ -81,5 +81,15 @@ y = my_model.predict(X)
 ml_monitor.record_inference_data(X, y)
 ```
 
-Done! Check your real time data in the HITL App [HITL UI](https://newrelic.com/sites/default/files/styles/1200w/public/2021-12/model-performance-monitoring.png?itok=CvQuxw2S) to see the real time data.
+Done! Check your real time data in the HITL App
+<p align='center'>
+<img src="https://newrelic.com/sites/default/files/styles/1200w/public/2021-12/model-performance-monitoring.png?itok=CvQuxw2S" width="100%">
+</p>
+<p align = "center">
+to see the real time data.
+</p>
+
+
+
+[HITL UI]() to see the real time data.
 
