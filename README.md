@@ -1,6 +1,6 @@
 # HITL Python Library
 
-HITL makes it easy and cost-effective to inject human cognition anywhere in a live production AI workflow and close the reliability gap.
+HITL from CloudFactory makes it easy and cost-effective to close the reliability gap by injecting human cognition anywhere in a live production AI workflow.
 With one API call you can resolve critical blockers or low-performance inferences in real-time using our last mile automation and managed workforce. 
 We want to empower you to launch and scale revolutionary automation products faster than ever before.
 
