@@ -34,6 +34,8 @@ hitl.login()
 
 4. Use the example code snippet below as a template to integrate HITL to your Python script:
 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/newrelic-experimental/ml-performance-monitoring/blob/main/examples/XGBoost_on_California_housing_prices_dataset.ipynb) easily try an end-to-end example of a HITL completion.
+
 ```python
 import hitl
 
@@ -65,7 +67,7 @@ Example HITL Dashboard that shows recent completions.
 </p>
 
 
-### Model Monitoring
+# Model Monitoring
 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/newrelic-experimental/ml-performance-monitoring/blob/main/examples/XGBoost_on_California_housing_prices_dataset.ipynb) easily try an end-to-end example of model monitoring.
 
@@ -88,8 +90,3 @@ Done! Check your real time data in the HITL App
 <p align = "center">
 to see the real time data.
 </p>
-
-
-
-[HITL UI]() to see the real time data.
-
